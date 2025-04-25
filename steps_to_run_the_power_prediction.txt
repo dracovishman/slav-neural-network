@@ -1,0 +1,8 @@
+Steps to run the neural network-
+open nn-gui tcl file which will open gui 
+select the verilog code u want to run(applicable to any digital system)
+add the number of gates-
+click of run simulation to run it in model sim to get the vcd report 
+now click on extract parameters to extract from vcd file
+now click on Train power model to train the model from the given dummy model(only 1 data set has been given to train)
+now click on predict power to get the final power prediction of verilog file 
