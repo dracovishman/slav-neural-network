@@ -1,0 +1,18 @@
+# do temp_sim.tcl
+# ** Warning: (vlib-34) Library already exists at "work".
+# Start time: 14:19:26 on Apr 25,2025
+# vlog C:/Users/DELL/Desktop/slav/full_adder.v 
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# -- Compiling module full_adder
+# 
+# Top level modules:
+# 	full_adder
+# End time: 14:19:26 on Apr 25,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" work.full_adder 
+# Start time: 14:19:26 on Apr 25,2025
+# Loading work.full_adder
+# End time: 14:19:27 on Apr 25,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# 
+# <EOF>

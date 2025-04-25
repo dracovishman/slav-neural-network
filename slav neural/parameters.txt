@@ -1,0 +1,8 @@
+avg_gate_cap 0.1
+clock_factor 1.0
+tech_node 28
+vdd 1.2
+frequency 2
+switching_activity 0.1
+num_gates 5
+temperature 25

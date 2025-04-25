@@ -1,0 +1,2 @@
+Prediction failed:
+'charmap' codec can't encode character '\u03bc' in position 24: character maps to <undefined>

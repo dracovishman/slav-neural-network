@@ -1,0 +1,4 @@
+Training completed!
+Final Test Loss: 0.000002
+Model saved to models/power_model.pth
+Scaler saved to models/scaler.pkl
